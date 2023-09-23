@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chrispinsteve
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning science computer
+- 🌱 I’m currently learning science computer at BYU-IDAHO
 - 💞️ I’m looking to collaborate on some projects 
 - 📫 You can contact me directly on my profile
 
